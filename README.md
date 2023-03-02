@@ -6,5 +6,5 @@
 4. Salin link pada LMS
 
 ## Keterangan Repository :
-Repo ini utamanya pada main akan kosong terlebih dahulu sebagai default branch.
+Repo ini utamanya pada maaster akan kosong terlebih dahulu sebagai default branch.
 Lalu untuk cabang branch selanjutnya akan dimasukkan tugas-tugas HTML dan CSS.
